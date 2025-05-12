@@ -5,7 +5,7 @@ A simple CNN model to detect if a plant leaf is healthy or diseased.
 
 ---
 
-## **Quick Start**  
+## Quick Start
 1.Install Requirements:  
 pip install tensorflow opencv-python matplotlib numpy
 ```
